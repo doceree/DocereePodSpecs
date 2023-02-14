@@ -12,7 +12,7 @@ source 'https://github.com/doceree/DocereePodSpecs.git'
 ```
 
 ```sh
-pod 'DocereeAdSdk', '~> 1.1.4'
+pod 'DocereeAdSdk', '~> 1.1.6'
 ```
 
 
