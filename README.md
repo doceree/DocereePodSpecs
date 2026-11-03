@@ -1,8 +1,8 @@
 # DocereePodSpecs
 
 ## Requirements
-- Use Xcode 11 or higher
-- Target iOS 9.0 or higher
+- Use Xcode 13 or higher
+- Target iOS 15.0 or higher
 - Create an account on Doceree
 
 ## Adding Doceree SDK to your Project
@@ -12,7 +12,7 @@ source 'https://github.com/doceree/DocereePodSpecs.git'
 ```
 
 ```sh
-pod 'DocereeAdSdk', '~> 1.1.6'
+pod 'DocereeAdSdk', '~> 6.3.1'
 ```
 
 
